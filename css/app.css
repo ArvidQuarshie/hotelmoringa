@@ -1,0 +1,33 @@
+.container{
+    height:100%;
+    width:100%;
+}
+body{
+  height:100%;
+    width:100%;
+}
+.landing{
+    height:100%;
+    width:100%;
+    background-color: white;
+    background-image: url(../images/landing1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.about{
+    height:100%;
+    width:100%;
+    background-color: black;
+}
+.services{
+    height:100%;
+    width:100%;
+    background-color: aqua;
+}
+.footer{
+    height:30%;
+    width:100%;
+    background-color: yellow;
+}
