@@ -1,4 +1,4 @@
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6, p{
    font-family: 'Permanent Marker', cursive;
 }
 .container{
@@ -27,9 +27,9 @@ body{
 
 }
 .services{
-    height:100%;
+    height:80%;
     width:100%;
-    background-color: aqua;
+    background-color: white;
 }
 .footer{
     height:30%;
