@@ -1,9 +1,14 @@
 h1,h2,h3,h4,h5,h6, p{
    font-family: 'Permanent Marker', cursive;
 }
-.container{
+.container1{
     height:100%;
     width:100%;
+}
+.galleries{
+    height:70%;
+        width:100%;
+    background-color: green;
 }
 body{
   height:100%;
